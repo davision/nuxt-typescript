@@ -25,8 +25,7 @@ export default class extends Vue {
 
 <style scoped>
 .header {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana,
-    sans-serif;
+  font-family: "Segoe UI", sans-serif;
 }
 
 .cards {
