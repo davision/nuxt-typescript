@@ -1,6 +1,8 @@
-# dex-ui
+# Nuxt Typescript
 
-> Nuxt.js TypeScript project
+Including:
+* Nuxt v2.1
+* TypeScript v3
 
 ## Build Setup
 
