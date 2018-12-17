@@ -1,7 +1,7 @@
-# Nuxt Typescript
+# Nuxt Typescript boilerplate
 
 Including:
-* Nuxt v2.1
+* Nuxt v2.3.4
 * TypeScript v3
 
 ## Build Setup
